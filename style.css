@@ -1,0 +1,35 @@
+body{
+    background-image: url(IMG_20211212_093748_600-removebg-preview\ \(1\).png);
+    background-size: cover;
+    background-size: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+ul li{
+    list-style-type: none;
+    align-items: center;
+    color: rgb(30, 255, 0);
+    font-size:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+ul{
+    text-align: center;
+}
+ol{
+    list-style-type: none;
+    
+}
+ol li{
+    color: darkgreen;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#first{
+    color: rgb(236, 12, 12);
+}
+div image{
+    size: 40%;
+
+}
